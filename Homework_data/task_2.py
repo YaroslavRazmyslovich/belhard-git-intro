@@ -1,6 +1,3 @@
-from binascii import crc32
-
-
 a = float (input ('enter the number а='))
 b = float (input ('enter the number b='))
 c = float (input ('enter the number c='))
